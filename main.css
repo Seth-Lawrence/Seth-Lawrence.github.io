@@ -1,0 +1,26 @@
+h1 {
+  color: #2b2d42;
+}
+
+button {
+  color: #2b2d42;
+  background-color: #8d99ae;
+}
+
+body {
+  background-color: #edf2f4;
+}
+
+#cv-head {
+  color: #2b2d42;
+  justify-content: center;
+  text-align: center;
+}
+
+footer ul li {
+  color: #1f60ec;
+}
+
+#landing {
+  background-image: url('https://drive.google.com/file/d/1RiNA2sD93tn8HuBwNJcHI8S7fNytE5C2/view?usp=sharing');
+}
